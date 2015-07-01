@@ -1,2 +1,0 @@
-# blog
-i-ued.cn
